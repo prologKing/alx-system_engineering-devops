@@ -7,3 +7,4 @@
 6-third_line - script for displaying the third line of a file
 7-file - script for creating file with special characters in name
 8-cwd_state - script for writing into file
+9-duplicate_last_line - script to duplicate last line
