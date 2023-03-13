@@ -9,3 +9,4 @@
 8-cwd_state - script for writing into file
 9-duplicate_last_line - script to duplicate last line
 10-mo_more_js - script to delete files with .js extension
+11-directories - script to counting number of directories and sub-directories
