@@ -5,3 +5,4 @@
 4-lastlines - script for displaying the last 10 lines of /etc/passwd
 5-firstlines - script for displaying the first 10 lines of /etc/passwd
 6-third_line - script for displaying the third line of a file
+7-file - script for creating file with special characters in name
