@@ -11,3 +11,4 @@
 10-mo_more_js - script to delete files with .js extension
 11-directories - script to counting number of directories and sub-directories
 12-newest_files - display most recent files in current directory
+12-newest_files - display 10 newest files
